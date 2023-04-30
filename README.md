@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ufuk</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Java Projects using open source technologies**
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **ufuktul@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ufuktul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ufuktul/" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">TECH STACK & Language & Tools</h3>
 <div align="center">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" />
@@ -71,3 +60,14 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" />
 </div>
+
+- 🔭 I’m currently working on **Java Projects using open source technologies**
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **ufuktul@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ufuktul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ufuktul/" height="30" width="40" /></a>
+</p>
