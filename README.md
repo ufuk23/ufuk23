@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ufuk TÜL</h1>
+<h1 align="center">Hi 👋, I'm Ufuk</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **MUES project**
