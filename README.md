@@ -62,4 +62,4 @@
 </div>
 
 - 🔭 I’m currently working on **Java projects using open source technologies**
-- 📫 How to reach me <a href="https://linkedin.com/in/https://www.linkedin.com/in/ufuktul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ufuktul/" height="20" /></a> **ufuktul@gmail.com**
+- 📫 How to reach me **ufuktul@gmail.com**  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ufuktul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ufuktul/" height="20" /></a>
