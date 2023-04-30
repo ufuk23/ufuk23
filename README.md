@@ -61,6 +61,7 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" />
 </div>
 
+<br/>
 <p>
 - 🔭 I’m currently working on **Java projects using open source technologies**
 - 📫 How to reach me **ufuktul@gmail.com**
