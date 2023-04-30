@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ufuk</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate and qualified backend developer from Turkey</h3>
 
 <h3 align="left">TECH STACK & Language & Tools</h3>
 <div align="center">
@@ -61,6 +61,8 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" />
 </div>
 
+<p>
 - 🔭 I’m currently working on **Java projects using open source technologies**
 - 📫 How to reach me **ufuktul@gmail.com**
 - <a href="https://linkedin.com/in/https://www.linkedin.com/in/ufuktul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ufuktul/" height="20" /></a>
+</p>
