@@ -17,4 +17,4 @@
 
 
 <h3 align="left">TECh STACK:</h3>
-<img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png"/>
+<img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" width="40" height="40"/>
