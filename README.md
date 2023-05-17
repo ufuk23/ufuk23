@@ -1,8 +1,9 @@
+<div align="center">
+  
 <h1 align="center">Hi 👋, I'm Ufuk</h1>
 <h3 align="center">A passionate and qualified backend developer from Turkey</h3>
+<h1>TECH STACK</h1>
 
-<h3 align="left">TECH STACK & Language & Tools</h3>
-<div align="center">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" />
@@ -58,9 +59,14 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" />
-</div>
 
 <br/>
 <p>
-🔭 I’m currently working on **Java projects using open source technologies 📫 ufuktul@gmail.com - <a href="https://linkedin.com/in/https://www.linkedin.com/in/ufuktul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ufuktul/" height="20" /></a>
+🔭 Currently working on various projects using open source technologies 
+<br/>
+📫 ufuktul@gmail.com
+<br/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ufuktul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ufuktul/" height="20" /></a>
 </p>
+  
+</div>
